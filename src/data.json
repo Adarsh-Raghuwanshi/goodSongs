@@ -1,0 +1,60 @@
+{
+  "Hio Hop Singers": [
+    {
+      "name": "Yo Yo Honey Singh",
+      "Rating": "5/5",
+      "Songs": ["Love Dose,", "Lungi Dance,", "Blue Eyes"]
+    },
+    {
+      "name": "Badshah",
+      "Rating": "4.8/5",
+      "Songs": ["Kala Chashma,", "Genda Phool,", "Mercy"]
+    },
+    {
+      "name": "Eminem",
+      "Rating": "4.6/5",
+      "Songs": ["Rap God,", "Without Me"]
+    },
+    {
+      "name": "Divine",
+      "Rating": "4.3/5",
+      "Songs": ["Mirchi,", "Sher Aaya Sher,", "No Competition"]
+    }
+  ],
+
+  "Romantic Singers": [
+    {
+      "name": "Arijit Singh",
+      "Rating": "5/5",
+      "Songs": ["Kesariya,", "Tum Hi Ho,", "Khairiyat"]
+    },
+    {
+      "name": "Jubin Nautiyal",
+      "Rating": "4.8/5",
+      "Songs": ["Manike,", "Akh Lad Jaave"]
+    },
+    {
+      "name": "Neha Kakkar",
+      "Rating": "4.6/5",
+      "Songs": ["Dilbar,", "London Thumakda,", "Coca Cola"]
+    }
+  ],
+
+  "Pop Singers": [
+    {
+      "name": "Justin Bieber",
+      "Rating": "5/5",
+      "Songs": ["Baby,", "Never Say Never,", "Boyfriend"]
+    },
+    {
+      "name": "Jubin Nautiyal",
+      "Rating": "4.8/5",
+      "Songs": ["Blank Space,", "Don’t Blame Me"]
+    },
+    {
+      "name": "Katy Perry",
+      "Rating": "4.6/5",
+      "Songs": ["Roar,", "Dark Horse,", "Unconditionally"]
+    }
+  ]
+}
